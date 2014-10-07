@@ -1,0 +1,24 @@
+{
+  "name": "chrome-apps-launch",
+  "version": "0.0.1",
+  "description": "Chrome Apps Launch for CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:k2wanko/chrome-app-launch"
+  },
+  "keywords": [
+    "chrome",
+    "apps",
+    "launch"
+  ],
+  "author": "k2wanko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k2wanko/chrome-app-launch/issues"
+  },
+  "homepage": "https://github.com/k2wanko/chrome-app-launch"
+}
